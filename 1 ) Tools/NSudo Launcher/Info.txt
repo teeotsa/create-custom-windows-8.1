@@ -1,0 +1,7 @@
+First of all, please navigate to NSudo's repository! Link : https://github.com/M2Team/NSudo
+
+Then, install the latest release available.
+
+Select "NSudo_[Version]_All_Comonents.zip" and download it.
+
+Open up the .zip file you downloaded and find the folder named "NSudo Launcher", move it to anywhere and done.
